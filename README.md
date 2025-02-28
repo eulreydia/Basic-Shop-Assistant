@@ -11,15 +11,15 @@ The conversation with the assistant takes place via Telegram, using the username
 ## Installation and Setup
 
 1. Clone this repository:
-   git clone https://github.com/eulreydia/Basic-Shop-Assistant.git
+git clone https://github.com/eulreydia/Basic-Shop-Assistant.git
 
 2. Install dependencies:
-   npm install
+npm install
 
 3. Set up environment variables in a .env file with the required values
 
 4. Start the proyect:
-   npm start
+npm start
 
 ## Technologies Used
 
